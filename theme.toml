@@ -1,0 +1,13 @@
+name = "RRCHNM"
+license = "MIT"
+licenselink = "https://github.com/chnm/hugo-theme-chnm"
+description = "A basic theme for projects at the Roy Rosenzweig Center for History and New Media at George Mason University."
+homepage = "https://rrchnm.org"
+tags = ["minimal", "simple-css"]
+features = []
+min_version = "0.5.0"
+
+[author]
+  name = "Jason Heppler"
+  homepage = "https://jasonheppler.org"
+
